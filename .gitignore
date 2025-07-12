@@ -11,3 +11,7 @@ venv/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# ignore all CSV except example
+!sales_data.csv
+*.csv
